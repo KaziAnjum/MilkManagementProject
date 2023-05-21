@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<jdbcDataAdapter class="net.sf.jasperreports.data.jdbc.JdbcDataAdapterImpl"><name>CityShopDataAdapter</name><driver>com.mysql.jdbc.Driver</driver><username>root</username><password>city</password><savePassword>true</savePassword><url>jdbc:mysql://localhost:3307/CityShopDB</url><database></database><serverAddress></serverAddress><classpath>G:\Database\MySQL\mysql-connector-java-8.0.16\mysql-connector-java-8.0.16\mysql-connector-java-8.0.16.jar</classpath></jdbcDataAdapter>
